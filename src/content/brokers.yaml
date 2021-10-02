@@ -1,0 +1,36 @@
+
+brokers:
+  - name: 富途证券
+    logo: "../images/futu.png"
+    color: "E95800"
+    description: 腾讯投资的美港股券商，美股上市公司
+    tags:
+      - 暗盘交易
+      - 美股打新
+    details:
+      - 开户享受 180 天港股免佣金
+      - 首次入金大于 2 万港币，可获 180 天免佣 +1 次抽奖机会 ( 100% 中奖)
+    link: https://gtk.pw/futu
+  - name: 老虎证券
+    logo: "../images/itiger.png"
+    color: "#E95800"
+    description: 美国上市公司，小米盈透战略投资，美股打新
+    tags:
+      - 暗盘交易
+      - 美股打新
+    details:
+      - 首次入金达标 3100 美元或者等值港币，领取价值 560 港币现金
+      - 认证企业得更多新人奖励
+    link: https://gtk.pw/tigr
+  - name: 雪盈
+    logo: "../images/snow.png"
+    color: "#E95800"
+    description: 国内最大投资者社区雪球旗下美港股券商
+    tags:
+      - 费率低
+      - 美股打新
+      - 协助开香港卡
+    details:
+      - 入金等值 2w 港币以上享 266 港币现金 +10 美元返佣卡 *1，入的越多，领的越多，最多价值 4988 港币
+      - 交易费率和融资费率非常低，相对其它券商，交易频率高用户，每月能省大几百，或上千港币
+    link: https://gtk.pw/snow
